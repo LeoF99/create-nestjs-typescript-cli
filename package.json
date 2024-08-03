@@ -1,0 +1,22 @@
+{
+  "name": "create-nestjs-typescript-cli",
+  "version": "1.0.0",
+  "description": "A CLI to create a Nest.js Typescript API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-nestjs-typescript-api": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoF99/create-nestjs-typescript-cli.git"
+  },
+  "author": "lleofferreirassantanassilva@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeoF99/create-nestjs-typescript-cli/issues"
+  },
+  "homepage": "https://github.com/LeoF99/create-nestjs-typescript-cli#readme"
+}
