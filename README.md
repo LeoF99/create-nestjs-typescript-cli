@@ -6,6 +6,8 @@ A CLI to automatically clone the [Typescript Nest.js API Template](https://githu
 
 Requirements:
 
+Node.js
+
 You NEED to have [NPM](https://www.npmjs.com) installed
 
 Install the CLI globally OR use npx:
